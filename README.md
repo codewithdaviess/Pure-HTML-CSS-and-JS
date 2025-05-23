@@ -9,3 +9,6 @@ Styling of the webpage (Appearance).
 
 # JS Javascript
 This is the behaviour of the webpage (Brain). 
+
+<!---:NB IMPORTANT--->
+All three work together to create a modern, interactive webpage.
